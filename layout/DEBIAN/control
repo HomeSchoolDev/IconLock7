@@ -1,0 +1,11 @@
+Package: com.homeschooldev.iconlock7
+Name: IconLock7
+Depends: firmware (>= 7.0), mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Locks homescreen icons
+	This tweak provides password protection for your apps. With IconLock installed you will have to enter a password in order to move or delete your apps. This will prevent anyone from ever messing with your apps. No new icons are added to the home screen or settings. To configure: hold an icon and provide your password. This tweak is supported on all iOS devices 7.0 and above.
+Homepage: http://www.homeschooldev.com
+Maintainer: Home School Dev
+Author: Home School Dev
+Section: Tweaks
